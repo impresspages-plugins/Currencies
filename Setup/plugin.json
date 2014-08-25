@@ -1,0 +1,7 @@
+{
+    "title": "Currencies",
+    "version": "1.00",
+    "name": "Currencies",
+    "description": "Teach ImpressPages to convert currencies. Useful in combination with other e-commerce related plugin who need currency conversion.",
+    "author": "ImpressPages"
+}
