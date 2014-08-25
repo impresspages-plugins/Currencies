@@ -1,1 +1,1 @@
-DROP TABLE IF EXISTS `ip_Currencies`;
+DROP TABLE IF EXISTS `ip_currencies`;
